@@ -15,6 +15,13 @@ Transformers - Friendly: It closely adapts to Hugging Face Transformers, leverag
 # Contribution Guidelines
 We warmly welcome contributions in any form, whether it's code optimization, feature expansion, documentation improvement, or issue reporting. Your involvement will help drive the project forward.
 
-Submitting Issues: If you encounter any issues or have suggestions for improvement while using the project, please describe them in detail on the Issues page. We'll respond and handle them as soon as possible.
+Submitting Code
+Follow these steps to contribute code:
+Fork this repository to your GitHub account.
+Clone your forked repository to your local machine: git clone https://github.com/yourusername/vl-model-visualizer.git.
+Create a new branch: git checkout -b new-feature.
+Make code modifications or develop new features on the new branch.
+Ensure the code style is consistent and all local tests pass.
+Commit and push the code to your remote repository: git push origin new-feature.
 Initiate a Pull Request (PR) to this project on GitHub, providing a detailed explanation of your changes and the purpose behind them.
 
