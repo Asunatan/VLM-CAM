@@ -11,3 +11,12 @@ User - Friendly Simplicity: The interface is clean and intuitive, eliminating th
 Seamless Plug - and - Play: Thanks to a highly modular design, it can be effortlessly integrated into existing visual - language large model projects. There's no need to significantly alter the original code structure, making it convenient to add visualization capabilities.
 
 Transformers - Friendly: It closely adapts to Hugging Face Transformers, leveraging its rich model resources and convenient APIs. This ensures perfect compatibility with mainstream Transformers models, providing strong support for Transformers - based research.
+
+# Contribution Guidelines
+We warmly welcome contributions in any form, whether it's code optimization, feature expansion, documentation improvement, or issue reporting. Your involvement will help drive the project forward.
+Submitting Issues: If you encounter any issues or have suggestions for improvement while using the project, please describe them in detail on the Issues page. We'll respond and handle them as soon as possible.
+When submitting an issue, please provide the following information:
+Issue Title: A concise summary of the issue
+Issue Description: A detailed explanation of the problem, including the scenario and steps to reproduce it
+Environment Information: Including the operating system, Python version, and library versions
+
