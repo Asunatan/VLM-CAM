@@ -7,5 +7,7 @@ This project aims to create a simple, plug - and - play, and Transformers - frie
 
 # Project Features
 User - Friendly Simplicity: The interface is clean and intuitive, eliminating the need for complex configurations. This allows users to quickly get started with visualization analysis, lowering the entry barrier and making it accessible for various users.
+
 Seamless Plug - and - Play: Thanks to a highly modular design, it can be effortlessly integrated into existing visual - language large model projects. There's no need to significantly alter the original code structure, making it convenient to add visualization capabilities.
+
 Transformers - Friendly: It closely adapts to Hugging Face Transformers, leveraging its rich model resources and convenient APIs. This ensures perfect compatibility with mainstream Transformers models, providing strong support for Transformers - based research.
