@@ -16,11 +16,5 @@ Transformers - Friendly: It closely adapts to Hugging Face Transformers, leverag
 We warmly welcome contributions in any form, whether it's code optimization, feature expansion, documentation improvement, or issue reporting. Your involvement will help drive the project forward.
 
 Submitting Issues: If you encounter any issues or have suggestions for improvement while using the project, please describe them in detail on the Issues page. We'll respond and handle them as soon as possible.
-When submitting an issue, please provide the following information:
-
-Issue Title: A concise summary of the issue
-
-Issue Description: A detailed explanation of the problem, including the scenario and steps to reproduce it
-
-Environment Information: Including the operating system, Python version, and library versions
+Initiate a Pull Request (PR) to this project on GitHub, providing a detailed explanation of your changes and the purpose behind them.
 
