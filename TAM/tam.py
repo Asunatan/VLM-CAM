@@ -1,5 +1,4 @@
 import os, torch, cv2, subprocess, shutil, re, tempfile
-import fitz
 import numpy as np
 from scipy.optimize import minimize_scalar
 from pathlib import Path
